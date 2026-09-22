@@ -37,6 +37,6 @@ I haven't created a dashboard in OEM.
 
 ## Submittion Information
 
--Repository Link: [GitHub URL] 
+-Repository Link: [https://github.com/Jessinzi/Oracle_pdb_ass_II_20251SEN222_Jessica] 
 -PDB Name Created: [je_pdb_20251SEN222] 
 -Issues Encountered: [Yes]
