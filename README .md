@@ -2,7 +2,7 @@
 
 ## Oracle Assignment 
 
-- **Name:**Ishimwe Jessica 
+- **Name:** Ishimwe Jessica 
 - **Student ID:** 20251SEN222
 - **Group:** B
 - **Lecture:** Maniraguha Eric
